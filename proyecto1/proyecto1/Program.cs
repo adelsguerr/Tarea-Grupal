@@ -10,7 +10,7 @@ namespace proyecto1
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
-        /// </summary>
+        /// </summary>lklk
         [STAThread]
         static void Main()
         {
