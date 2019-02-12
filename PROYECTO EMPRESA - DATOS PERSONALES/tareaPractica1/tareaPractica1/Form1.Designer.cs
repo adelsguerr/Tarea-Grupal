@@ -1,4 +1,4 @@
-﻿namespace proyecto1
+﻿namespace tareaPractica1
 {
     partial class Form1
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace proyecto1.Properties
+namespace tareaPractica1.Properties
 {
 
 
